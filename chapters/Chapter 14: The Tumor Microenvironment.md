@@ -3,13 +3,23 @@
 ## 14.1 Components of the Tumor Microenvironment
 
 The tumor microenvironment (TME) is a complex, dynamic ecosystem surrounding malignant cells that plays a crucial role in cancer initiation, progression, and metastasis. The TME, the environment surrounding the cancer cells, is a heterogeneous mixture of immune cells, endothelial cells, materials secreted from cells and their organelles, and fibroblasts. The tumor microenvironment (TME) is a complex biological structure surrounding tumor cells and includes blood vessels, immune cells, fibroblasts, adipocytes, and extracellular matrix (ECM).
-![Tumor microenvironment](images/nci-vol-12496-300.jpg)
-*Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads.
-Source:	National Cancer Institute (NCI)*
+
+<div align="center">
+<img src="images/chapter14/14-1.jpg" alt="Tumor microenvironment" width="80%">
+</div>
+<p style="text-align: justify;"><em><strong> Figure 14.1: Tumor microenvironment:</strong> Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads. <small>Source: National Cancer Institute (NCI)</small></em></p>
+
 
 ### 14.1.1 Cancer-Associated Fibroblasts
 
 Cancer-associated fibroblasts (CAFs) represent one of the most abundant and functionally important components of the tumor stroma. Cancer-associated fibroblasts (CAFs), a major component of the tumor microenvironment (TME), play an important role in cancer initiation, progression, and metastasis. Unlike normal fibroblasts, CAFs exhibit markedly different characteristics that promote tumorigenesis.
+
+
+<div align="center">
+<img src="images/chapter14/14-1-1.jpg" alt="Fibroblast" width="60%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.2 Fibroblasts:</strong> A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others. <small> Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood</small></em></p>
+
 
 **Morphological and Functional Characteristics of CAFs**
 
@@ -45,6 +55,12 @@ Mononuclear phagocytes are extremely plastic. In the context of interferon-drive
 
 Several studies indicate that tumor-associated macrophages (TAMs) usually have a pro-tumoral action, since they can stimulate angiogenesis, increase tumor cell invasion and motility, and have an immunosuppressive action.
 
+<div align="center">
+<img src="images/chapter14/14-1-2.jpg" alt="Tumor-Associated Macrophages" width="60%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.3 Tumor-Associated Macrophages:</strong> This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green. <small> Source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely </small></em></p>
+
+
 **Macrophage Polarization in the TME**
 
 The phenotype of tumour-associated macrophages is shifted to a pro-fibrotic, pro-angiogenic phenotype, M2, characterized by production of arginase, IL-10, and TGF-β as well as IL-23.
@@ -73,6 +89,12 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
+<div align="center">
+<img src="images/chapter14/14-1-3-2.png" alt="Tumor angiogenesis" width="80%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.4 Steps of tumor angiogenesis:</strong> Step 1 (hypoxia): the hypoxic or inflamed tumor microenvironment (TME) induces the production of vasculogenetic growth factors. Step 2 (proteolytic degradation): VEGF-A and -D binding to VEGFR-2 induce the production of matrix metalloproteinases (MMPs), degrading the extracellular matrix (ECM). Step 3 (tip cell migration): VEGFR-2 activation induces the transformation of ECs to tip cells (brown). Step 4 (tube formation): tip cells migrate into the TME with coordinated proliferation of stalk cells, forming a new tube. Step 5 (tumor vascularization): the new vessels mature by establishing tight junctions and by the coverage by pericytes (lila). <small>Source: Bokhari, S.M.Z.; Hamar, P. Vascular Endothelial Growth Factor-D (VEGF-D): An Angiogenesis Bypass in Malignant Tumors. Int. J. Mol. Sci. 2023, 24, 13317. via Wikimedia Commons</small></em></p>
+
+
 **Angiogenic Factors and Signaling**
 
 VEGF-A expression is greatly stimulated by tissue hypoxia and, perhaps independently, by low tissue pH, conditions that are commonly present in the tumor microenvironment.
@@ -83,9 +105,20 @@ VEGF-A action induces endothelial cells to express increased amounts of tissue f
 
 A microscopic population of angiogenic tumor cells will begin to modify microvessels in the neighborhood by inducing an increase in vascular permeability, dilation, and tortuosity even before the induction of new vascular sprouts.
 
+<div align="center">
+<img src="images/chapter14/14-1-3.jpg" alt="Tumor angiogenesis in ovarian tumor microenvironment" width="60%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.5 Tumor angiogenesis in ovarian tumor microenvironment:</strong> In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.<small> Source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest Univ.  creator: Chris Booth, Kyle Cowdrick, Frank C. Marini</small></em></p>
+
+
 ## 14.2 Interaction between Cancer Cells and the Stroma
 
 The relationship between cancer cells and stromal components is bidirectional and dynamic, with both compartments influencing each other's behavior and function through complex molecular crosstalk.
+
+<div align="center">
+<img src="images/chapter14/14-2.jpg" alt="Cancer cells and the stroma" width="60%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.6 Cancer cells and the stroma:</strong> As shown here, lung cancer is associated with a vast stromal desmoplastic reaction (the "neighborhood") in which the connective tissue, associated with the tumor, thickens similarly to scars. Cancer is in red; cell nuclei in cyan; stroma/desmoplasia in green; and an active stroma-specific marker in purple. <small> Source: National Cancer Institute \ Fox Chase Cancer Center creator: Neelima Shah, Edna Cukierman </small></em></p>
 
 ### 14.2.1 Bidirectional Signaling Mechanisms
 
@@ -110,6 +143,12 @@ The metabolic interaction between cancer cells and stromal components represents
 Cancer-associated fibroblasts undergo the reverse Warburg effect and provide cancer cells with glycolytic metabolites. This metabolic reprogramming allows for efficient energy utilization within the tumor microenvironment.
 
 CAF-derived lactate is crucial in prostate cancer metabolic transformation towards OXPHOS. CAFs can transfer functional mitochondria to prostate cancer cells.
+
+<div align="center">
+<img src="images/chapter14/14-2-2.png" alt="The reverse Warburg Effect" width="80%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.7 The reverse warburg effect: </strong>  Differences in glycolysis pathways between normal cells and cancer cells. (A) In the presence of oxygen, normal cells produce carbon dioxide up to 38 ATPs per glucose molecule through glycolysis, TCA cycle, and electron transport system. In a hypoxic environment, pyruvates are accumulated without going through the TCA cycle. These accumulated pyruvates in the muscle tissue are converted to lactic acid and only produce 2 ATPs. (B) Cancer cells only use the glycolysis process, regardless of the presence or absence of oxygen; 2 ATPs are produced per glucose molecule and, therefore, compared to normal cells, more glucose is required to obtain energy. <small>Source: Kim, S.-H.; Baek, K.-H. Regulation of Cancer Metabolism by Deubiquitinating Enzymes: The Warburg Effect. Int. J. Mol. Sci. 2021, 22, 6173. https://doi.org/10.3390/ijms22126173 via Wikimedia Commons. </small></em></p>
+
 
 **Amino Acid and Lipid Metabolism**
 
@@ -172,6 +211,12 @@ The T-lymphocyte subset TH17 produces IL-17, which upregulates IL-23 expression 
 ## 14.4 Extracellular Matrix Remodeling
 
 The extracellular matrix (ECM) serves as more than just a structural scaffold in the tumor microenvironment; it actively participates in tumor progression through dynamic remodeling processes that influence cancer cell behavior.
+
+<div align="center">
+<img src="images/chapter14/14-4.jpg" alt="Extracellular Matrix Remodeling" width="80%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 14.8 Extracellular matrix remodeling: </strong>  (A) Initial tumor stages are characterized by the presence of inactive, non-invasive fibroblasts within the tumor microenvironment (TME). (B) Conditions like hypoxia initiate tumor-related inflammation and set off environmental signals that are involved in the paracrine communication cycle (including cytokines, chemokines, and growth factors) along with angiogenesis triggers (VEGF, PDGF-b, FGF, and EGF), leading to the alteration or transformation of stromal cells. These elements collectively contribute to the variation in stromal cell populations as the cancer progresses. (C) The release of cytokines and growth factors such as TGF-b, IL-6 by tumor cells leads to the activation of dormant fibroblasts. (D) These activated fibroblasts then evolve into secretory types that are adept at remodeling the extracellular matrix (ECM) and influencing the immune environment. These fibroblasts display increased growth and ECM production abilities (known as desmoplasia). Various aggressive subtypes of cancer-associated fibroblasts (CAF) identified in numerous cancers include antigen-presenting CAFs (apCAFs), inflammatory CAFs (iCAFs), and myofibroblastic CAFs (myCAFs). These subtypes are identified using single-cell RNA sequencing transcriptomics, named for their secreted factors and their functions within the TME. (E) Diverse endothelial cell types in tumor tissue: typical endothelial cells in central or peripheral tumor regions are referred to as tumor endothelial cells. Beyond the usual tip and stalk cells, several subgroups have been found that show genetic markers linked to breaking through the basement membrane (initiating metastasis), attracting immune cells, and creating an immunosuppressive TME. The discovery of such angiogenic entities with active angiogenic transcription factors and enzymes critical for angiogenesis presents a promising avenue for developing anti-angiogenic treatments. <small>Source:  Arora Leena, Pal Durba Remodeling of Stromal Cells and Immune Landscape in Microenvironment During Tumor Progression, Frontiers in Oncology 2021, 11, https://doi.org/10.3389/fonc.2021.596798 via Wikimedia Commons. </small></em></p>
+
 
 ### 14.4.1 ECM Composition and Organization
 
