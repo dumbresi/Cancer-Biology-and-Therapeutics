@@ -1,0 +1,4 @@
+Title: File:Self-Organization-of-Muscle-Cell-Structure-and-Function-pcbi.1001088.s017.ogv\
+Description:This section gives an overview of the fundamental units of life - cells. It describes their biological composition and the various specializations they undergo to perform different functions such as memory, sight, movement, and digestion. The differences and similarities among prokaryotic and eukaryotic cells are discussed along with their evolution. The importance of understanding cellular biology to comprehend alterations in cancer cells is emphasized.\
+Source:Video S12 from Grosberg A, Kuo P, Guo C, Geisse N, Bray M, Adams W, Sheehy S, Parker K (2011). "Self-Organization of Muscle Cell Structure and Function". PLOS Computational Biology. DOI:10.1371/journal.pcbi.1001088. PMID 21390276. PMC: 3044763.\
+Image Details Url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Self-Organization-of-Muscle-Cell-Structure-and-Function-pcbi.1001088.s017.ogv
